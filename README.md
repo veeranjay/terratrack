@@ -1,2 +1,2 @@
-App Branch - main
-Arduino - arduino
+App Code - main
+Arduino Code - arduino
